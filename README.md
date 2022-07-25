@@ -1,4 +1,8 @@
 # Diabetes-Prediction-Using-ML-models-and-Django-Framework
+## Screen Shots
+![image](https://user-images.githubusercontent.com/77435711/180838656-92ca15f2-8ce9-4d23-857d-4e9023c005f7.png)
+![image (1)](https://user-images.githubusercontent.com/77435711/180838676-27912a7e-f17a-44c9-9d65-986d21c9a998.png)
+![image (2)](https://user-images.githubusercontent.com/77435711/180838734-880d9ef3-98f2-4966-8e1c-8d40bd70bde6.png)
 
 ## Description how I do
           I am going to provide a Machine Learning based solution to predict Diabetes of the patient in real time on the bases of different attributes e.g. blood
